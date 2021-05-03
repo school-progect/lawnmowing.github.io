@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background-color: aqua;
+}
+
+h1 {
+	color: whitesmoke;
+	text-align: center;
+}
+
+p {
+	color: whitesmoke;
+	font-size: 20px;
+	font-family: "shadows-into-light;"
+	
+}
+
+pre {
+	color: whitesmoke;
+	text-align: center;
+}
+
+
+
